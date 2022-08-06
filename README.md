@@ -7,7 +7,7 @@ A website to showcase the research and advocate work. Webpage is single page lan
 ## Demo
 
 
-https://lucky-creponne-757be7.netlify.app/
+[Live site](https://lucky-creponne-757be7.netlify.app/)
 ## Screenshots
 
 ![App Screenshot](https://i.imgur.com/QHxHbEQ.png)
